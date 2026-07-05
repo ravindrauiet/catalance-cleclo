@@ -10,7 +10,7 @@ class LoginScreen extends StatelessWidget {
         child: Text(
           "Cleclo Login",
           style: TextStyle(
-            fontSize: 24,
+            fontSize: 26,
             fontWeight: FontWeight.bold,
           ),
         ),
